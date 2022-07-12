@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everybody! 👋
 
 <!--
 **jianshijim/jianshijim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a Ph.D. student majoring in mechanical engineering at Beijing Insititute of Technology (BIT).
+
+My research interests include：
+Application of computer vision (CV) in self-driving technology and connected and automated vehicle (CAV) technology
+Human factors in driving safety
